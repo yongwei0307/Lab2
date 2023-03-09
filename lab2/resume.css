@@ -1,0 +1,222 @@
+.hor{
+    border-top-style:solid;
+    border-width: 3px;
+    width: 90%;
+    color: Black;
+    margin-top:-350px;
+  }
+  .hori{
+    border-top-style:solid;
+    border-width: 3px;
+    width: 25%;
+    color: Black;
+    margin-left: 10px;
+  }
+  .vl {
+    border-left: 3px solid black;
+    height: 700px;
+    position: absolute;
+    left: 400px;
+    margin-left: 100px;
+    top:-80px;
+  
+  }
+  .paragraph{
+    font-size: 1.2em;
+    position: relative;
+    font-family: 'Itim', cursive;
+    color:Black;
+  }
+  .table{
+    border:3px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 1.2em;
+    font-family: 'Itim', cursive;
+  }
+  hr{
+    border-top-style:solid;
+    border-width: 3px;
+    width: 90%;
+    color: Black;
+  }
+  .Job{
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 20px;
+  }
+  .w-text{
+    font-size: 1.2em;
+    position: relative;
+    font-family: 'Itim', cursive;
+    color:Black;
+  }
+  .work-text{
+    font-family: 'Itim', cursive;
+    display: inline-block;
+    margin-top: 0px;
+    padding-left: 10px;
+    text-align: center;
+    font-size: 1.5em;
+  }
+  .top-side{
+      height:50px;
+      background-color: #ECF9FF;
+  }
+  .top-title{
+    display: inline-block;
+    color: #D61355;
+    font-size: 1.5em;
+    position: relative;
+    bottom:10px;
+    margin-left: 20px;
+    font-family: 'Itim', cursive;
+  }
+  .top-link{
+    color: #D61355;
+    font-family: verdana;
+    margin-left: 10px;
+    display: inline-block;
+    position: relative;
+    left:65%;
+    bottom:30%;
+    background-color: #ECF9FF;
+  }
+  .top{
+    background-color: #987d12;
+    height:450px;
+  }
+  .profile{
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+    margin-left: 35%;
+    margin-top: 25px;
+  }
+  .top-text{
+    display: inline-block;
+    font-size: 2.5em;
+    position: relative;
+    bottom:20px;
+    margin-left: 32%;
+    font-family: 'Itim', cursive;
+    color:Black;
+  }
+  .center{
+    width: 95%;
+    margin:0px auto 0px auto;
+    background-color: #22ff00;
+    height: 1100px;
+  }
+  .text{
+    font-family: 'Itim', cursive;
+    margin-top: 0px;
+    padding-left: 10px;
+    text-align: center;
+    font-size: 2.0em;
+  }
+  .personal{
+    display: inline-block;
+    width: 35%;
+  }
+  .personal-information{
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    margin-left: 700px;
+  }
+  .personal-text{
+    display: inline-block;
+    font-size: 1.5em;
+    position: relative;
+    font-family: 'Secular One', sans-serif;
+    color:Black;
+    text-align: justify;
+    bottom:30px;
+  }
+  .education{
+    display: inline-block;
+    position: relative;
+    margin-left: 50%;
+    margin-top: 1px;
+    bottom: 35%;
+  }
+  .e-text{
+    font-family: 'Itim', cursive;
+    display: inline-block;
+    margin-top: 5px;
+    padding-left: 10px;
+    text-align: center;
+    font-size: 1.5em;
+  }
+  .language{
+    display: inline-block;
+    position: relative;
+    margin-left: 60px;
+    margin-top: 100px;
+    bottom: 20%;
+  }
+  .skill{
+    display: inline-block;
+    position: relative;
+    margin-left: 400px;
+    bottom: 0%;
+  }
+  .bottom{
+    margin:0px auto 0px auto;
+    background-color: #EBF5FB;
+  
+  }
+  .title-intro{
+    font-size: 2em;
+    font-family: 'Itim', cursive;
+    text-align: center;
+    color: #1F8A70;
+    margin-top: 0px;
+  }
+  .intro{
+    display: inline-block;
+    width: 50%;
+    margin-left: 25%;
+    font-size: 1.2em;
+    font-family: 'Itim', cursive;
+    text-align: center;
+  }
+  .btn {
+    background: #F8CBA6;
+    background-image: -webkit-linear-gradient(top, #F8CBA6, #B9F3FC);
+    background-image: -moz-linear-gradient(top, #F8CBA6, #B9F3FC);
+    background-image: -ms-linear-gradient(top, #F8CBA6, #B9F3FC);
+    background-image: -o-linear-gradient(top, #F8CBA6, #B9F3FC);
+    background-image: linear-gradient(to bottom, #F8CBA6, #B9F3FC);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Itim', cursive;
+    color: Black;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  .bottom-side{
+    height: 50px;
+    background-color: #F5F5F5;
+    margin:0px auto 0px auto;
+  }
+  .medsos{
+    text-align: center;
+    color: black;
+  }
+  .hobbies{
+   text-align:center;
+   color:black;
+   font-family: 'Secular One', sans-serif;
+  }
+  .c{
+    background-color: #F8CBA6;
+   height: 70px;
+  }
+  .p{
+    height: 300px;
+    width: 400px;
+  }
